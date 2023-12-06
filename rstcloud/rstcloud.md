@@ -15,13 +15,15 @@ address: 60 Martin Place, Sydney NSW 2000
 image: "/assets/images/company_logos/rstcloud.png"
 ---
 
-## Who we are                     
+## Who we are
+
 Established in Australia in 2023, RST Cloud is a cutting-edge technology company that specialises in threat intelligence solutions for businesses of all sizes. We offer a range of flexible and scalable solutions that can be customised to meet the unique needs of your business.
 
 Our approach includes the democratisation of threat intelligence, leveraging machine learning, automation, and artificial intelligence to ensure that the knowledge we produce is actionable to the extent that machines can facilitate end-to-end detection, prevention, and response, relying on data sourced from RST Cloud. 
 
 
 ## What we do
+
 We provide threat intelligence products focusing on the needs of SecOps teams of different sizes:
  - Threat intelligence feeds for Threat Detection/Prevention/Hunting
  - SOC tools to minimise False Positives and improve enrichment
@@ -31,6 +33,7 @@ We provide threat intelligence products focusing on the needs of SecOps teams of
 
 
 ## Our products
+
 ### [RST Threat Feed](https://www.rstcloud.com/rst-threat-feed/)
 
 A comprehensive threat intel feed of indicators (IP, Domain, URL, Hash) with their relationships to malware, TTPs, tools, threat groups, sectors, CVE, and other objects.
